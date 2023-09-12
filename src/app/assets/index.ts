@@ -32,5 +32,21 @@ export { default as Travel6 } from '@/app/assets/home/travel_6.jpg';
 export { default as Travel7 } from '@/app/assets/home/travel_7.jpg';
 
 
+// Blog
+export { default as Blog1 } from '@/app/assets/home/place_hot/place_hot_1.jpg';
+export { default as Blog2 } from '@/app/assets/home/place_hot/place_hot_2.jpg';
+export { default as Blog3 } from '@/app/assets/home/place_hot/place_hot_3.jpg';
+export { default as Blog4 } from '@/app/assets/home/place_hot/place_hot_4.jpg';
+export { default as Blog5 } from '@/app/assets/home/place_hot/place_hot_5.jpg';
+export { default as Blog6 } from '@/app/assets/home/place_hot/place_hot_6.jpg';
+export { default as Blog7 } from '@/app/assets/home/place_hot/place_hot_7.jpg';
+export { default as Blog8 } from '@/app/assets/home/place_hot/place_hot_8.jpg';
+export { default as Blog9 } from '@/app/assets/home/place_hot/place_hot_9.jpg';
+export { default as Blog10 } from '@/app/assets/home/place_hot/place_hot_10.jpg';
+export { default as Blog11 } from '@/app/assets/home/place_hot/place_hot_11.jpg';
+export { default as Blog12 } from '@/app/assets/home/place_hot/place_hot_12.jpg';
+
+
+
 //Footer Top
 export { default as BgTopFooter } from '@/app/assets/home/top-footer.jpg';
