@@ -57,7 +57,6 @@ export default function TripPlanner () {
                       <div className="absolute bottom-0 mb-10 ml-6">
                         <h1 className="text-[28px]"></h1>
                         <h2 className="text-big line-clamp-4 flex items-center gap-4">
-                          
                         </h2>
                       </div>
                     </div>
