@@ -23,28 +23,28 @@ export const blogs = [
   },
   {
     id: 2,
-    title: ' Beautiful Italy Let’s travel',
+    title: ' Beautiful Japan Let’s travel',
     content:
       'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system and expound the actual teachings of the great explorer of the truth, the master- builder of human happiness. No one rejects, dislike, or avoids plasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremly painful. Nor again is there anyone who loves or pursues.',
     img: Blog2,
   },
   {
     id: 3,
-    title: ' Beautiful Italy Let’s travel',
+    title: ' Beautiful China Let’s travel',
     content:
       'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system and expound the actual teachings of the great explorer of the truth, the master- builder of human happiness. No one rejects, dislike, or avoids plasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremly painful. Nor again is there anyone who loves or pursues.',
     img: Blog3,
   },
   {
     id: 4,
-    title: ' Beautiful Italy Let’s travel',
+    title: ' Beautiful VietNam Let’s travel',
     content:
       'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system and expound the actual teachings of the great explorer of the truth, the master- builder of human happiness. No one rejects, dislike, or avoids plasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremly painful. Nor again is there anyone who loves or pursues.',
     img: Blog4,
   },
   {
     id: 5,
-    title: ' Beautiful Italy Let’s travel',
+    title: ' Beautiful Spain Let’s travel',
     content:
       'But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system and expound the actual teachings of the great explorer of the truth, the master- builder of human happiness. No one rejects, dislike, or avoids plasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremly painful. Nor again is there anyone who loves or pursues.',
     img: Blog5,

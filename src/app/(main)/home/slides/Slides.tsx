@@ -31,6 +31,7 @@ export default function Slides(props: ISlidesProps) {
         //   delay: 4000,
         //   disableOnInteraction: false,
         // }}
+      
         scrollbar={{
           draggable: true,
         }}
