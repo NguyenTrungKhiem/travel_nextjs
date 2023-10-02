@@ -1,0 +1,14 @@
+.gallery .swiper-slide {
+    height: 550px;
+}
+
+.gallery .swiper-wrapper {
+    height: 580px;
+    align-items: flex-end;
+}
+
+.gallery .gallery__image:hover {
+    transform: translateY(-20px);
+    transition: all 500ms ease-out;
+    cursor: pointer;
+}

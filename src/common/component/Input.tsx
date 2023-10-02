@@ -34,7 +34,7 @@ export default function Input(props: InputProps) {
       <div className="relative">
         <input
           type={type}
-          className={`block w-full text-title-color border border-[#ccc] focus:outline-none ${classNameInput} `}
+          className={`block w-full border border-[#ccc] focus:outline-none ${classNameInput} `}
           placeholder={`${placeholder}`}
           style={{ borderRadius: `${rounded}px`, height }}
           onFocus={onFocus}

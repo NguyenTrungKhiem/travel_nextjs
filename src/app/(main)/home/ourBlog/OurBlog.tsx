@@ -38,7 +38,6 @@ export default function OurBlog() {
                 slidesPerView={1}
                 spaceBetween={10}
                 mousewheel={true}
-                loop={true}
                 pagination={true}
                 breakpoints={{
                   0: {

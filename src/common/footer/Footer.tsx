@@ -1,7 +1,6 @@
 import * as React from 'react';
 import Input from '../component/Input';
 import Button from '../component/Button';
-import { Logo } from '@/app/assets';
 import Icon from '../component/Icon';
 import {
   faInstagram,
@@ -10,6 +9,7 @@ import {
   faYoutube,
 } from '@fortawesome/free-brands-svg-icons';
 import Link from 'next/link';
+import { LogoFooter } from '@/app/assets';
 export interface IFooterProps {}
 
 export default function Footer() {
@@ -237,19 +237,19 @@ export default function Footer() {
                   height="54px"
                   rounded={6}
                   placeholder="Enter your email address here"
-                  classNameInput=" pl-5 py-5"
+                  classNameInput="pl-5 py-5 text-[#172432]"
                   type="email"
                 />
                 <Button
                   text="Join the mailing list"
-                  className="rounded-md bg-primary-yellow text-title-color w-[45%] h-[54px] font-medium"
+                  className="rounded-md bg-[#F4BD4F] w-[45%] h-[54px] font-medium text-[#172432]"
                 />
               </div>
             </form>
           </div>
         </div>
         <div className="flex justify-between items-center text-white pt-[50px]">
-          <Logo />
+          <LogoFooter/>
           <div className="">© 2023 UnwindCabins</div>
           <div className="flex justify-between gap-x-2.5">
             <Link href="#">

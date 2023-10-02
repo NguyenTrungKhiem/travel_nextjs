@@ -12,10 +12,10 @@ export default function TopFooter(props: ITopFooterProps) {
     >
       <div className="container mx-auto">
         <div className="w-1/2 py-[210px]">
-          <span className="block text-[44px] font-bold text-white mb-5">
+          <span className="block text-[45px] font-bold text-white mb-5">
             Escape from endless Zoom calls
           </span>
-          <span className="block text-white mb-10">
+          <span className="block text-white mb-10 text-big">
             Discover the wonders of spending time offline and away from the office with our 3 day
             weekend getaway cabin retreats.
           </span>

@@ -1,0 +1,14 @@
+.trip-planner .swiper-wrapper {
+    height: 540px;
+}
+.trip-planner .image_tripplane:hover {
+    transform: translateY(-140px);
+    transition: all 700ms ease-out;
+    cursor: pointer;
+}
+
+.trip-planner .image_tripplane:hover .image_tripplane--content {
+    display: block;
+    top: 100%;
+    left: 0;
+}

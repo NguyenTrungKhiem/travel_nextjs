@@ -9,13 +9,13 @@ export interface IHeader {}
 
 export default function Header() {
   return (
-    <header className="w-full h-auto fixed z-50 top-0 bg-transparent">
-      <div className="container mx-auto mt-5">
+    <header className="w-full h-auto fixed z-[99] top-0 backdrop-blur-lg">
+      <div className="container mx-auto py-5">
         <div className="flex justify-between items-center">
           <div className="logo">
             <Logo className="object-cover" />
           </div>
-          <div className="flex justify-between items-center gap-x-10 text-white text-[16px]">
+          <div className="flex justify-between items-center gap-x-10 text-[#172432] text-[16px]">
             <Link href="/" className="font-bold">
               <span>Home</span>
             </Link>
@@ -37,11 +37,11 @@ export default function Header() {
           </div>
           <div className="flex gap-x-2.5">
             <Link href="/login" className="block">
-              <Button className="bg-title-color rounded-md py-2 px-3 text-white" text="Login" />
+              <Button className="bg-title-color rounded-md py-2 px-3 text-[#172432]" text="Login" />
             </Link>
             <Link href="/register" className="block">
               <Button
-                className="bg-primary-yellow rounded-md py-2 px-3 text-white"
+                className="bg-primary-yellow rounded-md py-2 px-3 text-[#172432]"
                 text="Register"
               />
             </Link>

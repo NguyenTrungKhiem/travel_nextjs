@@ -1,5 +1,6 @@
 // Logo
 export { default as Logo } from '@/app/assets/logo/Logo.svg';
+export { default as LogoFooter } from '@/app/assets/logo/LogoFooter.svg';
 
 //bg Home
 export { default as BgHome1 } from '@/app/assets/home/bg_1.jpg';
@@ -46,6 +47,31 @@ export { default as Blog10 } from '@/app/assets/home/place_hot/place_hot_10.jpg'
 export { default as Blog11 } from '@/app/assets/home/place_hot/place_hot_11.jpg';
 export { default as Blog12 } from '@/app/assets/home/place_hot/place_hot_12.jpg';
 
+
+// Gallery
+export { default as Gallery1 } from '@/app/assets/home/gallery/gallery_1.jpg';
+export { default as Gallery2 } from '@/app/assets/home/gallery/gallery_2.jpg';
+export { default as Gallery3 } from '@/app/assets/home/gallery/gallery_3.jpg';
+export { default as Gallery4 } from '@/app/assets/home/gallery/gallery_4.jpg';
+export { default as Gallery5 } from '@/app/assets/home/gallery/gallery_5.jpg';
+export { default as Gallery6 } from '@/app/assets/home/gallery/gallery_6.jpg';
+export { default as Gallery7 } from '@/app/assets/home/gallery/gallery_7.jpg';
+export { default as Gallery8 } from '@/app/assets/home/gallery/gallery_8.jpg';
+export { default as Gallery9 } from '@/app/assets/home/gallery/gallery_9.jpg';
+
+
+
+// Avatar
+export { default as Avatar1 } from '@/app/assets/home/avatar/ava_1.jpg';
+export { default as Avatar2 } from '@/app/assets/home/avatar/ava_2.jpg';
+export { default as Avatar3 } from '@/app/assets/home/avatar/ava_3.jpg';
+export { default as Avatar4 } from '@/app/assets/home/avatar/ava_4.jpg';
+export { default as Avatar5 } from '@/app/assets/home/avatar/ava_5.jpg';
+export { default as Avatar6 } from '@/app/assets/home/avatar/ava_6.jpg';
+export { default as Avatar7 } from '@/app/assets/home/avatar/ava_7.jpg';
+export { default as Avatar8 } from '@/app/assets/home/avatar/ava_8.jpg';
+export { default as Avatar9 } from '@/app/assets/home/avatar/ava_9.jpg';
+export { default as Avatar10 } from '@/app/assets/home/avatar/ava_10.jpg';
 
 
 //Footer Top
